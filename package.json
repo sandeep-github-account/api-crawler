@@ -1,0 +1,26 @@
+{
+  "name": "api-crawler",
+  "version": "1.0.0",
+  "description": "Node API Crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeep-github-account/api-crawler.git"
+  },
+  "keywords": [
+    "Api",
+    "Crawler"
+  ],
+  "author": "sandeep-github-account",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandeep-github-account/api-crawler/issues"
+  },
+  "homepage": "https://github.com/sandeep-github-account/api-crawler#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
